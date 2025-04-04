@@ -1,0 +1,96 @@
+{
+  "login": {
+    "title": "SADC Digital Farmer ID",
+    "description": "Enter your credentials to access your account",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "orContinueWith": "or continue with",
+    "loginWithEsignet": "Login with eSignet",
+    "noAccount": "Don't have an account?",
+    "contactAdmin": "Contact your administrator"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "loans": "Apply for Loan",
+    "fertilizers": "Fertilizer Access",
+    "markets": "Market Prices",
+    "profile": "Farmer Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "header": {
+    "defaultTitle": "SADC Digital Farmer ID",
+    "notifications": "Notifications"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}",
+    "summary": "Your Farming Summary",
+    "digitalId": "Digital ID",
+    "verified": "Verified",
+    "notVerified": "Not Verified",
+    "loanStatus": "Loan Status",
+    "marketAlerts": "Market Alerts",
+    "fertilizerVoucher": "Fertilizer Voucher",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View All"
+  },
+  "loans": {
+    "title": "Apply for Loan",
+    "applyNow": "Apply Now",
+    "amount": "Loan Amount",
+    "purpose": "Purpose",
+    "farmSize": "Farm Size",
+    "submit": "Submit Application",
+    "applications": "Your Applications",
+    "status": "Status",
+    "date": "Date",
+    "noApplications": "No loan applications yet"
+  },
+  "fertilizers": {
+    "title": "Fertilizer Access",
+    "available": "Available Fertilizers",
+    "apply": "Apply for Subsidy",
+    "track": "Track Delivery",
+    "type": "Type",
+    "price": "Price",
+    "availability": "Availability",
+    "quantity": "Quantity"
+  },
+  "markets": {
+    "title": "Market Prices",
+    "latestPrices": "Latest Crop Prices",
+    "crop": "Crop",
+    "price": "Price",
+    "region": "Region",
+    "date": "Date",
+    "filter": "Filter",
+    "noData": "No market data available"
+  },
+  "profile": {
+    "title": "Farmer Profile",
+    "personalInfo": "Personal Information",
+    "farmInfo": "Farm Information",
+    "contactInfo": "Contact Information",
+    "idStatus": "ID Status",
+    "updateInfo": "Update Information",
+    "save": "Save Changes"
+  },
+  "settings": {
+    "title": "Settings",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "update": "Update Password",
+    "esignetSettings": "eSignet Settings",
+    "linkEsignet": "Link eSignet Account",
+    "unlinkEsignet": "Unlink eSignet Account",
+    "privacySettings": "Privacy Settings",
+    "dataSharing": "Data Sharing",
+    "notifications": "Notifications"
+  }
+}
+
